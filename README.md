@@ -34,3 +34,4 @@ The solution utilizes **SQL** for data merging and processing, **Python** for au
 ├── dashboard_future.pbix # Final Power BI Dashboard file
 └── README.md             # Project documentation
 ```
+### Dataset Kaggle Link : https://www.kaggle.com/datasets/mathchi/online-retail-ii-data-set-from-ml-repository
